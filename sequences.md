@@ -27,6 +27,7 @@ ttgctgtgtc ctgacccaga ggacaggggg ttccagcttc tggggccctg ctcacactca caccagatcc cag
 GCAAGCGGTC GGGAATTTGA GGCAGCCCTC CTGA
 ```
 ### [scanw](https://xenopus.lab.nig.ac.jp/cgi-bin/gb2/gbrowse/xl_v7_1m_p/?name=id:8134946;dbid=annotations:database) = ZNF24?
+[ZNF24](https://www.ncbi.nlm.nih.gov/gene/7572) = zinc finger protein 24 = ZSCAN3
 ```
 >Xelaev16020230m class=Sequence position=Scaffold170533:177447..187076 (- strand)
 ATGGACATTG CTATTGGTCA GTACCACTCT GAGGATAGCA GCAGCAACAG TTCACAGAGT GGAGCAGGAT CTTCTCTGCA
