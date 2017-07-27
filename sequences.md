@@ -26,7 +26,7 @@ AGACTGAGGG TACAGGGCTG GAGGGTCCGT CACTGAGTGG GGAGGGGGGC CCCTCTGAAG GAAGTCCCCT GCC
 ttgctgtgtc ctgacccaga ggacaggggg ttccagcttc tggggccctg ctcacactca caccagatcc caggtttgAG
 GCAAGCGGTC GGGAATTTGA GGCAGCCCTC CTGA
 ```
-### [scanw] = ZNF24?
+### [scanw](https://xenopus.lab.nig.ac.jp/cgi-bin/gb2/gbrowse/xl_v7_1m_p/?name=id:8134946;dbid=annotations:database) = ZNF24?
 ```
 >Xelaev16020230m class=Sequence position=Scaffold170533:177447..187076 (- strand)
 ATGGACATTG CTATTGGTCA GTACCACTCT GAGGATAGCA GCAGCAACAG TTCACAGAGT GGAGCAGGAT CTTCTCTGCA
