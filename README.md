@@ -20,6 +20,6 @@ Role of ancestral copies of the genes:
 
 - [capn5](http://www.jbc.org/content/289/28/19383.full.pdf): nuclear protease
 
-- scan: not exact matching in the gene name on genebank or xenbase
+- scan: not exact matching in the gene name on genebank or xenbase. Publication on ZNF24:[Jia et al. 2013](http://www.bloodjournal.org/content/121/4/707.long?sso-checked=true)
 
  
