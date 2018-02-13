@@ -16,10 +16,10 @@
 
 Role of ancestral copies of the genes:
 
-- [ccdc69](http://www.tandfonline.com/doi/full/10.4161/cc.9.20.13387): role in regulating central spindle assembly
+- [ccdc69](http://www.tandfonline.com/doi/full/10.4161/cc.9.20.13387): role in regulating central spindle assembly. [Recent study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5731902/) shows a potential role in resistance to drugs in ovarian cancer cells. Maybe a role in aneurysm wall ([Shi et al. 2009](http://stroke.ahajournals.org/content/40/4/1252))
 
 - [capn5](http://www.jbc.org/content/289/28/19383.full.pdf): nuclear protease
 
-- scan: not exact matching in the gene name on genebank or xenbase. Publication on ZNF24:[Jia et al. 2013](http://www.bloodjournal.org/content/121/4/707.long?sso-checked=true)
+- scan: not exact matching in the gene name on genebank or xenbase. Publication on ZNF24:[Jia et al. 2013](http://www.bloodjournal.org/content/121/4/707.long?sso-checked=true). Some sort of [review of the SCAN family](https://www.ncbi.nlm.nih.gov/books/NBK6264/), [Sander et al. 2003](https://www.sciencedirect.com/science/article/pii/S0378111903005092?via%3Dihub). 
 
  
