@@ -5,6 +5,16 @@
 ## Designing single guide for CRISPR/Cas9
 - [CRISPRdirect](https://crispr.dbcls.jp/)
 - [CRISPRscan](http://www.crisprscan.org/)
+- [MacVector](https://macvector.com/)
+- [interPro](https://www.ebi.ac.uk/interpro/): identifying domain
+- [CRISPR Rgen](http://www.rgenome.net/)
+
+## Specyficy check
+- [gggenome](https://gggenome.dbcls.jp/)
+- [xenbase](http://www.xenbase.org/entry/)
+
+"Seed" (~12bp before PAM) is highly sensitive.
 
 ## Making oligos
 - [ZIFIT](http://zifit.partners.org/ZiFiT/ChoiceMenu.aspx)  
+- [IDT](https://www.idtdna.com/pages)
