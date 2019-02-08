@@ -35,6 +35,27 @@ But the 2L was not so I assumed the annotation was missing and downloaded 1kb ar
 
 But when I tried to align the NCBI sequences with the xenbase sequences, capn5L are very different...
 
+Looking for capn5:
+
+For X. laevis annotation for v.9.1 pop out. Using `PAC4GC:7353299.CDS.4`
+
+```
+chr2L:180235066..180235258 (- strand) class=CDS length=193
+```
+Blast against v.9.2, best hit for 2L:
+```
+[JBrowse laevis 9.2: chr2L:180095200-180095392]
+[JBrowse laevis 9.2: chr2S:154209508-154209699]
+```
+When opening the result of 2L:
+```
+Primary Data
+Name	capn5.L
+Type	gene
+Position	chr2L:180089115..180143177 (- strand)
+Length	54,063 bp
+```
+
 ### Website and genome used in their paper
 
 Using as input the capn5z sequence recovered from xenbase and matching exactly the published sequence.
@@ -141,3 +162,7 @@ Sbjct: 180232882 ccatatggtcccaactag 180232865
 
 ```
 So looks like they are 2 copies on the 2L (where able to Sanger amplify capn5z and the most similar 2L) --- Need to talk wih BJE: capn5z is what I obtained with my primers, the more similar 2L is what Danielle got with her primers ...
+
+When I sanger sequenced the "capn5z", I obtained some heterozygous sites for some inividuals, that are homozygous for other individuals which is compatible with a gene on the Z chromosome (heteroz in males ZZ, homoz in females ZW since only 1 Z copy).
+
+However Danielle obtain a different sequence for every individual she sequenced, matching exactly one of the capn5.L gene... maybe a W? The sequences are not good enough to be sure all the sites are homozygous or some heterozygous...
