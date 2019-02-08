@@ -165,4 +165,8 @@ So looks like they are 2 copies on the 2L (where able to Sanger amplify capn5z a
 
 When I sanger sequenced the "capn5z", I obtained some heterozygous sites for some inividuals, that are homozygous for other individuals which is compatible with a gene on the Z chromosome (heteroz in males ZZ, homoz in females ZW since only 1 Z copy).
 
-However Danielle obtain a different sequence for every individual she sequenced, matching exactly one of the capn5.L gene... maybe a W? The sequences are not good enough to be sure all the sites are homozygous or some heterozygous...
+However Danielle obtain a different sequence for every individual she sequenced, matching exactly one of the capn5.L genes... maybe a W? The sequences are not good enough to be sure all the sites are homozygous or some heterozygous...
+
+**Notes about Mawaribuchi et al. 2017 Real-time PCR primers:** `CAGGTGGAGTTGAACTGCAC` (Forward) and `CGTGTCACCAGGATTAAACA` (Reverse) sits in regions that are identical between both genes ... So hopefully the 2nd L version is not expressed... If it is then the expression data contains expression from both genes...
+
+8/02/19: With BJE, we don't think it would impact our study since we were hyper conservative in the design of the old primers that only amplified the suspected `capn5z`.  
